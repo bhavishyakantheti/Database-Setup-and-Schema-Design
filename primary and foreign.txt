@@ -1,0 +1,24 @@
+PRIMARY KEY :-
+
+Syntax- PRIMARY KEY
+
+1. It is used to identify unique record from the table.
+2. Primary key doesn't allow duplicate values.
+3. Primary key doesn't allow null values.
+4. Primary key is a combination of unique and not null.
+5. A table should have only one primary key.
+6. Primary key is not mandatory but it is highly recommended.
+7. It is also called as key attribute.
+
+
+
+FOREIGN KEY :-
+
+1. Foreign key used to establish connection between multiple tables.
+2. Foreign key will accept duplicate values.
+3. Foreign key will accept null values.
+4. Foreign key is not a combination of unique key and not null.
+5. If a column or an attribute want to be a foreign key then it must be primary key in it's own table.
+6. A table can have multiple foreign key.
+7. Foreign key is also known as referential integrity constraints.
+8. Foreign key will always present in child table but it actually belong to parent table..  
